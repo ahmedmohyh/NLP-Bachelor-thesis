@@ -19,6 +19,7 @@
 import os
 import nltk.data
 from nltk import tokenize
+
 sentecnesList =  []
 
 for filename in os.listdir(r"D:\UDE\6th Semester\MEMS\MEWS Data\MEWS_Essays\MEWS_Essays\Essays_all\Schweiz\T1\test"):
