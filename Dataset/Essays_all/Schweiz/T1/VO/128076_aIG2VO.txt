@@ -1,0 +1,9 @@
+﻿The traditional way of counting votes for an election can be both, good and bad, so can be the new, computerised system.
+
+In the old days of voting, miscounting was a big problem. If a human made a mistake they had to recount all votes, especially in eye by eye contest.
+ A computer on the other hand can easily errase a false result.The old system also took a long time to be finished. Every vote counter has to take a look on every single voting sheet, one by one.
+But computers don't have to be the better solution. People who can't afford computers or people who don't often use the machines are likely to vote for the wrong candidate, even though the computers should be easy to use. 
+It is a normal thing if a human makes an error, but if a programmed machine does one, it could have an huge effect one the voting result.
+We have to keep in mind that these machines are used daily and heavily. This could result in an error of the voting- program.
+ Implementing this computers nationwide would also be a risky and time taking decision. 
+In the end the governements trust other machines and programs too, so why shouldn't they trust the voting ones.

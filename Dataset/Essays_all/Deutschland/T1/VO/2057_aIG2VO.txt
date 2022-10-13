@@ -1,0 +1,7 @@
+﻿The article and the lecture which I'm going to summarize deal with the voting system in the United States.
+
+Current voting systems are too inefficient according to the article and can lead to too many errors. For example, computerized systems would make counting votes much easier and much more reliable due to the author. It states, that it was easy in the past to vote accidentally for the wrong person. A computerized system could magnify the text for older people or perhaps use touch-technology. Counting votes would also be much faster than the traditional way as computers could deal with thousands of votes easily in a very short period of time.
+
+The lecture on the other hand presents the cons to computerized voting. Human errors may also occur in computerized systems according to the lecturant as there aren't 100% error-free programs. Furthermore, older people might not be used to modern technology, like computers or touch-screens and may find it harder to use these instead of the traditional voting paper. She also describes modern systems as too risky as a failure may result in a loss of thousands of votes, while a counting error in the current voting system would also cause one vote at a time to be wrong.
+
+To sum it up, the lecture opposes the article as they present the positive and the negative side of computerized voting.

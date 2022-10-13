@@ -1,0 +1,9 @@
+﻿In comparision with the audition, the text is obviously for the replacement of manual counting systems by a computer program. The dialog wants to keep the
+older manual system.
+
+It is said that in traditional voting, many people cross the wrong name by accident. But in computer programs, this could be possible too because people who aren't used to computers often have fears of technology. Because of that, they may accidently cross the wrong name too or they even may not want to vote at all!
+
+Another thing is that both systems have problems with the counting of the votes. In traditional voting, some votes may be lost and if an error is detected, the whole ballot has to be recounted. But in the modern voting system, we can't be sure too that all votes are counted correctly. "Let us not forget that programs are made by human, and human make mistakes", is said. Moreover, there are no physical notes so you can't correct the voting manual. 
+
+
+

@@ -1,0 +1,6 @@
+﻿The US-Voting-System relies on classical paper voting. Many voices say that this system is too old and should be replaced by computerized voting systems.
+
+First of all, both systems are critized in their usability. The Opposers of a computer vote say that for old people, using a computer is really difficult. The technoligical barrier is too big to surpass for some folks. The supporters counter with the bigger texts, wich can be easily displayed and even magnified. You do not have to search your canditate trough endless paper towers, wich helps the accuracy of not chosing the wrong one to vote. 
+The counting process is too a main discussion point. The computirzed fraction says that human error is too present while computers can count instantly and shorten the process significantly. The opposers argue that computers can make error too, and who will even trust a computer, wich can be programmed wrong. A big failure can crash the whole system and because of no physical records, all votes are lost.
+
+As you see, both opposers and supporters have alot of arguments to present. Some thrsust the traditonal systems, for others the technological progress should be implemented soon. Both systems have their weaknesses and stronger points, wich can lead to an interesting argumentation.

@@ -1,0 +1,5 @@
+﻿The text "Voting" is critizising the voting system in the United States. 
+The main concern is that people accidentally vote for the wrong candidate just because they can't read their name properly. The solution should be computerized voting systems. But will a computer make it better? In the presentation it says that some people have trouble using computers and wouldn't be able to vote at all with these new systems. If you believe the text that wouldn't be a problem becaus the voting machines have an easy-to-use-touch-screen and therefore everyone should be able to use them without further knowledge.
+But what about the counting of the votes? People make mistakes and recounting takes a lot of time and is very expensive. Computerized programs could be more prezise. 
+On the other hand, a person maybe misses one or two votes but if there's an error in the computer system many votes can get lost. 
+Also, an election is only every two years nationally and twice a year locally so is it really necessary to spend time developing a programm if there aren't that many elections overall?

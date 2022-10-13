@@ -1,0 +1,6 @@
+﻿There are two oposing opinion. One opinion is deffenitely for the traditional way of voting, while the othere one wants to get a newer voting system, a computerized one.
+The first argument of the modern party is the inaccuraty. Ballots need to be counted one by one which makes it easy to miss one if you have to count thousands of those ballots. The computer wont make any counting mistakes. Further more people with bad eyesight might mark the wrong name while in the computer you only need to hit the right name.
+These are arguments to support the computer but for every argument is a counter argument.
+Even though the computer wont make counting mistakes there is no guarantee the program is flawless. Banking system are tested every day and a mistakes apears pretty fast but this software is only running every 2 years once which makes it hard to detect such a msitake.
+An argument without any counter argument from the traditional party is that not everyone has got a computer and even if they have, they may not be able to operat it.
+ 

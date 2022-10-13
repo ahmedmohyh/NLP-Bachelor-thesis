@@ -1,0 +1,6 @@
+﻿Voting systems
+At this time in the USA all votings are counted by humans who make mistakes. The text says it may would be a better idea to vote directly on computers. The lecture on the other hand showed many problems that could occure by voting on computers. The text and the lecture ofeten say the contrary.
+
+While in the text it says that counting by humans provides a lot of errors, the lecturer argues that computers are programmed by humans too. The lecturer doubts the computersystem, whereas the text is fully convinced that a computer would do a better job than humans. When the lecturer refferes to the human-counting system he says that the few errors that human make are not compareable to the faults a computer would make if the programmer did a minute mistake.
+
+Text and lecturer do not agree when it comes to the simplicity of computer-system. The text claims it would even be easier to vote on computers because peope who cannot see very good are barely able to read the small letters on the voting sheet. The lecturer says that not everyone is able to handle a computer and that the voting system therefore should not change.

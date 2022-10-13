@@ -1,0 +1,6 @@
+﻿At the moment there is a serious discussion going on about the voting system in the USA. Many people want to establish a computerized voting sytem to counteract human mistakes when counting the votes and during the initial voting.
+
+A computerprogram could count every vote in a matter of seconds. On the other side there are many people who believe that mistakes can also happen when a computer is counting the votes because at the end of the day it is still humans who write the code and their program could have flaws. These mistakes would have an impact on a much larger scale than some officials miscounting one or two votes.
+Another point critics of the current voting system target is the fact that many people with poor eyesight often misplace their cross and vote for a candidate they didn't want to vote for. Just tapping on the name would make the voting easier. People opposing the computer system state that similar mistakes can happen with computers. It's easy to vote on a touchscreen when you are familiar with such technology. Many people don't have the posibility to use computers often and maybe can't work with one. Some even have a fear of technology.
+
+At the end both systems have it's flaws that you have to work on to get a good voting system   

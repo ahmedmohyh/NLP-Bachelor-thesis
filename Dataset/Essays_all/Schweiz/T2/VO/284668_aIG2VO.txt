@@ -1,0 +1,7 @@
+﻿Many people believe that when it comes to voting in the United Sates there is a big incurrancy in the voting results. But how does this happen?
+
+A lot of people are not used to computers so they are not sure how they have to vote online. It is very  likely that there are going to be mistakes in the voting results because the people accidentally picked the wrong candidate.
+
+Another problem about computerized voting is that if the computers make a mistake while counting the votes there is going to be a huge process to recount it. But we if we as humans count the votes it is also very likely that we are going to make mistakes. We can also make a big mistake while constructing a computer which is supposed to be used for online voting. In this case we are again at the second problem.
+
+Due to the mentioned problems people do not have much trust in this sort of voting system even though it is national wide only once in two years used. 

@@ -1,0 +1,9 @@
+﻿Voting - Software versus Ballots
+
+Voting is a highy critical topic all over the world and with that comes the question about the most secure way to vote. Some say the old-fashioned ballots are the most secure and most efficient way to vot. Critics state, that human errors are far too possible and that electronical voting is far superiour. The two given sources, the text above and a audiofile concerning the voting system have a totally diffenrent opinion.
+
+The text states that the ballots, lists wiht numerous word in small print, may cause people with poor eyesight (mainly eldery people) to vote for the wrong candidate which can be eliminated by computer-powered votes featuring touch screens and zoom functions. Meanwhile the text says that the modern technology can be scaring for non-techies (e.g. elderly people, in general people wihtout much contact to the internet and PC's) and therefore will shy them avay from voting.
+
+Another concern the text brings up is the counting of the votes: human errors while counting the votes can have a major impact in the outcome or, if found out early enough, will create expensive and time consuming recounts. The audiofile counters that argument by stating, that even machines make errors since their software is still man-made. Furthermore if the programm fails, then the impact will be much bigger since thousands of votes can be eliminated with just one failing machine. Adding to that is the risk of a deliberate attack in order to rig the votes by one of the candidates.
+
+In the end, it is just a matter of time that software will take over the voting system since the load of ballots will get bigger and bigger with every year. Nevertheless the concerns about software-based voting should not go unnoticed and have a fair point.

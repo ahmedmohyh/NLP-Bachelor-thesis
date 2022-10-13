@@ -1,0 +1,7 @@
+﻿The voting System in the US is unefficient, due to large lists in small letters or touch systems and errors by counting the votes. Recounts and wrong election results are expected. With computer voting all these things could be far easier and have less failures. But there is no proof, this statement is correct.
+
+Especially for older people that are not used to compters, the voting on a computer is terrible for them. Everyone knows how easy it is, doing wrong things with the mouse or the return key. In an online voting system, such a failure is fatal. The program has to be very user-friendly and there should be solutions for this kind of failure by human, before they get invented.
+
+This leads into another problem. The failure inside the computer program. As said in the speech, no system works fine by the day of invention. Bugs in programs are normal and we see them every day. The difference to a voting program is, that this kind is not daily used. So all Errors have a chance to exist longer than in other programs, because voting programs are used one time a year or less. Errors by counting votes due to program are really fatal and recountings much more difficult with some electronic bits.
+
+So a possible solution are large tests with lots of people before using such programs. On the other hand, the US could try to make the voting lists even larger by writing the names bigger, to prevent the voter to cross the wrong candidate.

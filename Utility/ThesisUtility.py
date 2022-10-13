@@ -257,14 +257,23 @@ def plotGraph (thresholds, countMissed):
     # function to show the plot
     plt.show()
 
-def printPairsEvaluation(path) :
+'''
+this function prints the value of the accuracy, recall and precision using Pairs method
+@:parameter path to the csv
+@:parameter fileType csv or excel
+'''
+def printPairsEvaluation(path,fileType) :
     tpCount = 0
     tnCount = 0
 
     fnCount = 0
     fpcount = 0
 
-    dfPairEvaluation = pd.read_csv(path)
+    if (fileType == "csv"):
+        dfPairEvaluation = pd.read_csv(path)
+
+    else:
+        dfPairEvaluation = pd.read_excel(path)
 
     iteration = dfPairEvaluation.count()['ID']
 
@@ -309,9 +318,16 @@ def printPairsEvaluation(path) :
 '''
 this function prints the value of the purity 
 @:parameter path to the csv
+@:parameter fileType csv or excel
 '''
-def printPurity (path):
-    dfPurity = pd.read_csv(path)
+def printPurity (path,fileType):
+
+    if (fileType == "csv"):
+        dfPurity = pd.read_csv(path)
+
+    else:
+        dfPurity = pd.read_excel(path)
+
     d = defaultdict(list)
 
     for j in range(0, 19):

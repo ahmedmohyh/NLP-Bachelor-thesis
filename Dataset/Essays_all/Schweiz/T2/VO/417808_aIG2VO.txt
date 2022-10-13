@@ -1,0 +1,16 @@
+﻿Relation between a presentation and a text about "Voting"
+
+In the text critic `s apply for change traditional voting into computer voting. Their arguments:
+-People are making to many mistakes when ther are counting the letters
+-People who have bad eyes can easily mark the wrong vote nd wrong name
+-It is way to much correct if the computers can make the results of the voting and so much more easly to vote about the political decision, which is given. 
+-Statement: Computerized voting is better than the traditional-paper-voting.
+
+The lady in the presantation is against computerized voting. Her arguments:
+-Computers are made by human hands, so there could be also mistakes in the system.
+- For people who aren`t used by computers will have problem to vote. For example, they don`t find the voting page, they don`t know how to mark the solutions of their decicions ...
+-An error in the system can make so many mistakes in the solution
+-Of course, computer systems are used for banking and communication but they reached the perfect system only in many years. For the "perfect" computer system in public voting there are many years necessary to do this process.
+-An other point is that voting isn`t that often like the using for communications and banking. So it is kind of unnecessary to make such an complicated system only for one day in two years in the United States.
+
+The lady shows that human beings think that technology tools (planes, computers, phones, tablets..) are "perfect" and because of that better than human work. But the main point here is that technological things are made by humans and so it is defenitely naif to say, that they don`t make mistakes. Technological stuffs are helpers but can`t take place of the human works.   

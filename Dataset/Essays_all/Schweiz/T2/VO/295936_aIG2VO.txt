@@ -1,0 +1,9 @@
+﻿Donald Trump, the new president elected, this came to many people as a suprise, even as a shock. But what if they somewhat later found out by the end of his term that the votes had been miscounted, that something had gone wrong? Probably no one would want to release those findings but still what if? To create a reliable voting system is crucial for a functioning democracy, so the question pops up if fully computerized systems would be a good alternative to the traditional counting system.
+
+The dependence on the people to count correctly and aviod miscounts is very high. But counting thousands of those ballots in a day can easily lead to a loss of focus and to distraction, tiredness and burning eyes. Erare humanum  est is what the Romans used to say, people simply make mistakes. Human errors can never be fully avaioded, b ut they should when it's about the sake of one whole country, of democracy at the sake of the people's rights that have taken so many years to establish. Computer systems do all the counting quickly and automatically, human error can be avoided fully. 
+
+Also many of the voters contribute to the "wrong" votes. Many of the voters put the cross at the wrong place, missing their actual candidate, many because they have a poor eye-sight. In the computer systems such errors could also be avoided, by using a clearer form, and offering the possibility to search explicitly for the candidate's name.
+
+
+One point that clearly speaks against the first of the above named argument is that computer systems cannot guarantee a 100% accuracy and exclude human errors. Computer systems themselves have been developed by humans and therefore human error always will bea factor. The problem with a computerized voting system is that if errors occur here they are much 
+

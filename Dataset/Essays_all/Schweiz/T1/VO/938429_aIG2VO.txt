@@ -1,0 +1,5 @@
+﻿Voting
+
+Is the current voting system used in the United Stated inefficient and does it often lead to inaccurate counting of votes? Should be there another system bases on computer programms?
+
+A new voting system with computers wouldn't be any better, because people who don't use computer on daily bases will not understand it, because of the fear of technology. And another problem is, that not everybody can afford a computer. The few counting mistakes made by humans are not that fatal, but if there is a big computer error, that would be a disaster. Thousends of votes may be lost and there will likely be some computer errors, because computer programms are made by humans and humans make mistakes. Another problem is that computer programms, which are used in banking transactions work well, because they are used so much, that humans have improved these programms, but there is only one voting twice a year. That means to improve this system, it would take many years and my errors to be perfectly accurate like the other programms which are used in banking transactions.

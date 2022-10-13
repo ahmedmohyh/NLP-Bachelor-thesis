@@ -1,0 +1,12 @@
+﻿Both the text and the lecture are dealing with the same topic: voting.
+However, while the text tells about the benefits of using computerized voting, the lucture persuades the listener to rely on traditional, manual voting.
+
+The text starts by stating that misvoting is a problem with traditioinal voting, as peoply sometimes miss the tiny mark for their candidate on the large ballot, especially those with poor eyesight.
+On computers however, using a touchscreen and magnification, people are less likely to miss.
+The exact opposite is said by the lecture, it says that people who do not get into contact with computers are likelier to misvote, due to their inexperience.
+Also, the might be discouraraged from voting at all, because the fear the new technology.
+
+Next, the text lists the benefits of computers counting votes: they do not make the mistakes humans sometimes make when dealing with thousands of ballots, as the counting of computers is said to be perfect.
+On the other hand, the lecture negates these arguments by remembering the listener that the computers are programmed by humans, so there is room fpr human error.
+
+Lastly, the lecture states that we could not trust voting programs, because they are not used as frequently as for example banking programs, so errors are much less likely to be detected.

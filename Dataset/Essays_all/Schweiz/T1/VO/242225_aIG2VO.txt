@@ -1,0 +1,5 @@
+﻿The current voting systems used in the United States are inefficient and often lead to an inaccurate counting of votes, but computerized voting systems wouldn't be more precise. Instead they would make it worse because not everyone is familiar with a computer or can even afford one.
+
+Computer programs are made by human, so if there are any mistakes in the program it will have a much higher influence than miscounting some votes. Since there is no actual evidence of the votes, a recount is almost impossible. In the current age we're living in, voting on computers can be dangerous since hackers could change votes. A vote on a paper instead cannot be faked and is therefor more save.
+
+Since voting takes places every two years in the United States, people wouldn't really get familiar with a new system. The mistakes would be bigger due to the new voting system than the current one is having already. 

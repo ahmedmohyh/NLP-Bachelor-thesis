@@ -1,0 +1,4 @@
+﻿Voting has been a part of the american system since many years. The elections especially the counting of the votes lead to troubles and mistakes every time, because as we know, every human makes mistakes. The idea is, to computerize the elections for having less counting mistakes. 
+Another point for faults in the result of the election is, that people with poor eyesight can mark the wrong name easily because the text is written too small. With computers, one could have the sheet with all the names in a format that is larger so that everyone could read it without problems. 
+Through the computerizing,the counting of the votes could be done a lot easier and would lead to an exact result, because the traditional counting is based on people who record vote by vote what lead to mistakes which can be damaging especially if an election is closely contested.
+To sum i t up,the text brings up arguments for a computerized election in the USA.

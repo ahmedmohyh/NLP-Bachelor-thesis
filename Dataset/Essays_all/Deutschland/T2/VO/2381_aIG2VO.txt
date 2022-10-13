@@ -1,0 +1,8 @@
+﻿The text and the audio file both contain informations about the US-american voting system.
+
+First of all the text starts by pointing out the inefficiency and the inaccuracy of the voting system.
+The most problematic issue is the cards used for voting beeing to small. People with bad eyesight are not always able to see which of the small boxes to set a mark on is the one for their candidate.
+Critics want this issues to be gone by implementing a better, more efficient system using computers and modern technologie. This is what gets critisized by the audiofile. Here it says computersystems won't do any better because of different reasons. Not everybody is used to use computers. While beeing used every day by a lot of people, even children, most of the older population are still confused by modern devices. There is a good possibility the computers could be missunderstood so these people will vote for the wrong candidate.
+The biggest problem trying to be solved is the misscounting of votes. Today this has to be done by hand and relies havily on the officials doing so. If a mistake accures all votes have to be recounted, what delays the voting progress. Critics of the actual system hope this problem to be solved through the computers, but belivers of the old system complain nothing will be solved because the programms dont have to work as propperly as predicted. If there is a problem thousands of votes can be gone, without the possibility of a recount.
+
+Technologie develops over time, the voting system did not, until now. The accuracy of modern technologie speaks for it selfe. But for now everybody has to decide for himselve if a change of the votingsystem would be usefull or if everything should stay as it is.

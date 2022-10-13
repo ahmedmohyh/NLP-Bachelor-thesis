@@ -1,0 +1,5 @@
+﻿It says that not everybody is used to computers which can be a problem with computerized voting systems. Furthermore, computers are programmed by humans so that errors can also occur. Because the data is not physically saved, a recount wouldn't be possible. We trust in computers every day, also for sensitive information such as bank transactions. Voting is not that often so that it shouldn't be a problem to use computers. 
+
+Apart from that, the crrent US voting system is often called inefficient and leads to inaccurate votes. Especially when the result is close, a miscount can be a big problem. Computers on the other hand don't make these mistakes, while people who count the votes can easily fail to do it properly.
+
+A problem of the traditional symstem is that people who can't see well probably make a wrong mark on the paper which leads to inaccurate results. Nonetheless, there always is a risk on computer symstems, especially in case of hacking and influencing votings in other countries.
