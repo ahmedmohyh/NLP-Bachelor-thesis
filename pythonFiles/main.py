@@ -16,20 +16,20 @@
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 
-import os
-import nltk.data
-from nltk import tokenize
-
-sentecnesList =  []
-
-for filename in os.listdir(r"D:\UDE\6th Semester\MEMS\MEWS Data\MEWS_Essays\MEWS_Essays\Essays_all\Schweiz\T1\test"):
-   with open(os.path.join(r"D:\UDE\6th Semester\MEMS\MEWS Data\MEWS_Essays\MEWS_Essays\Essays_all\Schweiz\T1\test", filename)) as f:
-       text = f.read()
-       text = text.replace("ï»¿","")
-       print(text)
-       print ("##################### - End of thefile- ####################")
-       print("------------------- The essays as sentences ---------");
-       sentecnesList.append(tokenize.sent_tokenize(text))
-
-print(len(sentecnesList))
+# import os
+# import nltk.data
+# from nltk import tokenize
+#
+# sentecnesList =  []
+#
+# for filename in os.listdir(r"D:\UDE\6th Semester\MEMS\MEWS Data\MEWS_Essays\MEWS_Essays\Essays_all\Schweiz\T1\test"):
+#    with open(os.path.join(r"D:\UDE\6th Semester\MEMS\MEWS Data\MEWS_Essays\MEWS_Essays\Essays_all\Schweiz\T1\test", filename)) as f:
+#        text = f.read()
+#        text = text.replace("ï»¿","")
+#        print(text)
+#        print ("##################### - End of thefile- ####################")
+#        print("------------------- The essays as sentences ---------");
+#        sentecnesList.append(tokenize.sent_tokenize(text))
+#
+# print(len(sentecnesList))
 
