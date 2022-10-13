@@ -1,12 +1,19 @@
+import gensim
 import numpy as np
 import pandas as pd
 import scipy
+from nltk.corpus import stopwords
 from scipy import sparse
 from scipy.sparse import vstack, hstack, csr_matrix
 from sklearn.cluster import MiniBatchKMeans
 from sklearn.metrics import silhouette_samples, silhouette_score, confusion_matrix, cohen_kappa_score
 from pathlib import Path
 from collections import defaultdict
+import os
+import re
+import tokenize
+from sentence_transformers import util
+
 
 '''
 This function calculates the average feature vector of each sentence 
@@ -343,3 +350,80 @@ def printPurity (path,fileType):
     total = dfPurity.count()['ID']
 
     print("purity = ", (rightCounter / total) * 100)
+
+'''
+this funciton reads the text from the given path and parse them in form of sentences using the structring words
+'''
+def getSentenceUsingStructringWords(path):
+    listStructureWords = []
+
+    dfSrtucturingWords = pd.read_excel("../CSV Files/structureWords.xlsx")
+    listStructureWords = dfSrtucturingWords.iloc[:, 0].tolist()
+    regex = r"\b(?:{})\b".format("|".join(listStructureWords))
+    sentences = []
+
+    for filename in os.listdir(path):
+        with open(os.path.join(path, filename)) as f:
+            text = f.read()
+            text = text.replace("ï»¿", "")
+            sents = re.split(regex, text)
+            sents = tokenize.sent_tokenize(text)
+            for s in sents:
+                sentses = tokenize.sent_tokenize(s)
+                if (s.isspace() or len(s) == 0):
+                    continue
+                s = s.lower()
+                if (len(s.split()) < 5):
+                    continue
+                for ss in sentses:
+                    if (len(ss.split()) > 5):
+                        sentences.append(ss)
+    return  sentences
+
+'''
+This functions reads the texts from the given path and parses them into normal sentences and tokens
+'''
+def getSentcesAndTokens(path, withTokens=True):
+    sentences = []  # sentences that would be clusters
+    for filename in os.listdir(path):
+        with open(os.path.join(path, filename)) as f:
+            text = f.read()
+            text = text.replace("ï»¿", "")
+            sents = tokenize.sent_tokenize(text)
+            for s in sents:
+                sentences.append(s)
+
+    ### list of tokens that would be fed
+    tokensSentenceslist = []
+
+    for s in sentences:
+        wordsList = gensim.utils.simple_preprocess(s)  # removing the punction and so on....
+        filtered_words = [word for word in wordsList if word not in stopwords.words('english')]
+        tokensSentenceslist.append(filtered_words)
+    if (withTokens):
+        return sentences,tokensSentenceslist
+    else:
+        return sentences
+
+'''
+this function iterates over the sentenecs and assigns for each sentence the gold standard id with the highest cosine similairty 
+'''
+def iterateAndAssignGoldStandard (embeddings,sentences,embRefs):
+    mm = 0
+    # looping over all the sentences
+    for emb in embeddings:
+        listMax = []
+        ## looping over all the gold standards to calculate the cos_sim between them and the sentences.
+        for embref in embRefs:
+            cos_sim = util.cos_sim(emb.toarray(), embref.toarray())  # cos_sim is the value of the cosine similairty
+            listMax.append(cos_sim)
+        index_max = np.argmax(listMax)  # picking up the index (Gold standard Id)  of the max cosine similairty
+        df_test = df_test.append({
+            "ID": mm,
+            "text": sentences[mm],
+            "AssignedSimilairty": index_max,
+            "Similairty": listMax[index_max]
+        }, ignore_index=True)
+        mm = mm + 1
+
+    df_test.to_excel("Tf-Idf With Centriods.xlsx");
