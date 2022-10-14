@@ -2,6 +2,7 @@ import gensim
 import numpy as np
 import pandas as pd
 import scipy
+from nltk import tokenize
 from nltk.corpus import stopwords
 from scipy import sparse
 from scipy.sparse import vstack, hstack, csr_matrix
@@ -11,7 +12,7 @@ from pathlib import Path
 from collections import defaultdict
 import os
 import re
-import tokenize
+
 from sentence_transformers import util
 
 
@@ -148,10 +149,11 @@ def readTextFromFileName(listNames, essaysPath):
 
 '''
 This funciton appends the clusters' feature vector to the feature vector of each array.
+@:return new vector of size tfIDFVectorsArray + 19 after adding the clusters feature vector
 '''
-def appendClustersToVector(essaysNamesList , tfIDFVectorsArray, vectorizer):
+def appendClustersToVector(essaysNamesList , tfIDFVectorsArray, vectorizer,finalResultsPath):
 
-    df_goldStandarsdClusters = pd.read_excel("../ML-Essay scoring/data/FinalResults.xlsx")
+    df_goldStandarsdClusters = pd.read_excel(finalResultsPath)
     clusterFeatureVectormulti = []
 
     for i in range (len(essaysNamesList)):
@@ -203,7 +205,7 @@ def writeClustersToExcel (clusterExcelSheetName,cluster_labels,k,sentences,embed
         "text": sentences,
         "cluster": cluster_labels
     })
-    df_clusters.to_excel(clusterExcelSheetName + k + ".xlsx")
+    df_clusters.to_excel(clusterExcelSheetName + str(k) + ".xlsx")
 
     df_mostRepresentative = pd.DataFrame({})
     df_ClsuteringSentencesCount = pd.DataFrame({})
@@ -231,8 +233,8 @@ def writeClustersToExcel (clusterExcelSheetName,cluster_labels,k,sentences,embed
                 "cluster": i
             }, ignore_index=True)
 
-    df_mostRepresentative.to_excel(clusterExcelSheetName + k + " MostRepresentative.xlsx")
-    df_ClsuteringSentencesCount.to_excel(clusterExcelSheetName + k + " Count.xlsx")
+    df_mostRepresentative.to_excel(clusterExcelSheetName + str(k) + " MostRepresentative.xlsx")
+    df_ClsuteringSentencesCount.to_excel(clusterExcelSheetName + str(k) + " Count.xlsx")
 
 '''
 this funciton plots the graph between the different threshold and the number of missed count
@@ -344,7 +346,7 @@ def printPurity (path,fileType):
     rightCounter = 0
 
     for key, value in d.items():
-        mostFreq = max(set(value), key=value.count)
+        mostFreq = max(set(value), key=value.count,default=0)
         rightCounter = rightCounter + value.count(mostFreq)
 
     total = dfPurity.count()['ID']
@@ -406,18 +408,30 @@ def getSentcesAndTokens(path, withTokens=True):
         return sentences
 
 '''
-this function iterates over the sentenecs and assigns for each sentence the gold standard id with the highest cosine similairty 
+this function iterates over the sentenecs and assigns for each sentence the gold standard id with the highest cosine similairty
+@:parameter  embeddings : vectors of all sentences of our dataset
+@:parameter sentences, the acutal text of the dataset
+@:parameter embRefs vectors of the gold standards 
+@:parameter fileName of the excel file
+@:parameter tfidf boolean parameter indicates wether the passed array are parse arrays or not. 
+@:return allCosinSimiliarityValues list of the value of the highest cosin similairty for each sentence 
 '''
-def iterateAndAssignGoldStandard (embeddings,sentences,embRefs):
+def iterateAndAssignGoldStandard (embeddings,sentences,embRefs,fileName,tfIdf= True):
+    allCosinSimiliarityValues = []  # contains the value of the highest cosine similairty between a sentence and all gold standards
+    df_test = pd.DataFrame({})
     mm = 0
     # looping over all the sentences
     for emb in embeddings:
         listMax = []
         ## looping over all the gold standards to calculate the cos_sim between them and the sentences.
         for embref in embRefs:
-            cos_sim = util.cos_sim(emb.toarray(), embref.toarray())  # cos_sim is the value of the cosine similairty
+            if(tfIdf):
+                cos_sim = util.cos_sim(emb.toarray(), embref.toarray())  # cos_sim is the value of the cosine similairty
+            else:
+                cos_sim = util.cos_sim(emb, embref)
             listMax.append(cos_sim)
         index_max = np.argmax(listMax)  # picking up the index (Gold standard Id)  of the max cosine similairty
+        allCosinSimiliarityValues.append(listMax[index_max]) # the value of the highest cosine similairty with this sentence
         df_test = df_test.append({
             "ID": mm,
             "text": sentences[mm],
@@ -426,4 +440,5 @@ def iterateAndAssignGoldStandard (embeddings,sentences,embRefs):
         }, ignore_index=True)
         mm = mm + 1
 
-    df_test.to_excel("Tf-Idf With Centriods.xlsx");
+    df_test.to_excel(fileName);
+    return  allCosinSimiliarityValues
