@@ -356,7 +356,7 @@ def printPurity (path,fileType):
 '''
 this funciton reads the text from the given path and parse them in form of sentences using the structring words
 '''
-def getSentenceUsingStructringWords(path):
+def getSentenceUsingStructringWords(path,withTokens=True):
     listStructureWords = []
 
     dfSrtucturingWords = pd.read_excel("../CSV Files/structureWords.xlsx")
@@ -380,6 +380,18 @@ def getSentenceUsingStructringWords(path):
                 for ss in sentses:
                     if (len(ss.split()) > 5):
                         sentences.append(ss)
+
+    ### list of tokens that would be fed
+    tokensSentenceslist = []
+    for s in sentences:
+        wordsList = gensim.utils.simple_preprocess(s)  # removing the punction and so on....
+        filtered_words = [word for word in wordsList if word not in stopwords.words('english')]
+        tokensSentenceslist.append(filtered_words)
+
+    if (withTokens):
+        return sentences,tokensSentenceslist
+    else:
+        return sentences
     return  sentences
 
 '''
