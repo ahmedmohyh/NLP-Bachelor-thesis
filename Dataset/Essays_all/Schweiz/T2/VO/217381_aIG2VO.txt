@@ -1,5 +1,0 @@
-﻿Computerized voting system are a modern alternative to the traditional ones, currently used in the United States. But they bring a great risk with them, even if they are considered more accurate. 
-
-The errors in the traditional voting system, caused by mistakes in the counting of the ballots, are in an acceptable range. Considering the fact, that computers are programmized by humans, there could be errors as well which could lead to huge differences in the results. Furthermore the traditional voting system is able to recount the ballots in case of doubt which is impossible for the computer.
-
-Also to mention is the fact, that there are a lot of old people who are not used to modern technology. For them, it is easier to vote by hand instead of giving their vote by computer. Sure, we use new technologies in our daily life, but they are around already for a long time and are improved constantly. Taking into account, that more people would not vote at all, feared by the use of computers or because of mistrust towards this new voting system, it makes more sense to stick to the old one. 

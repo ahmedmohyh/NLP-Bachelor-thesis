@@ -1,6 +1,0 @@
-﻿Computers are often used in votings. This technique gives a better possibility to count all the votes. It is way faster and gives a better overview on what is going to be the result of the voting. 
-There also many reasons people are against using this technique for helping in important votings. First of all there is the possibility of the technique having some errors that are not fixable in the near future.
-These computers were invented by humans and humans can make mistakes so that there are technical malfunctions possible. 
-But a positive thing about using computers is that, for example, people with poor eyesight can easily marke the wrong name on a sheet of paper. On a computer it is way easier. You only have touch the display to make your vote count and that is a thing everybody can easily do. 
-Further more there is a risk taken by using computers that are based on the internet or special servers to count all the votes.
-There is a way people can vote easily but this way shows many risks. If one computer doe not work as it should 

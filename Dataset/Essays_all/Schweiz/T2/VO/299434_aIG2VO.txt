@@ -1,7 +1,0 @@
-﻿Introducing a new voting system in the United System is definitely an enormous topic. It is of great significance and the opinions are broad. 
-
-According to the lecture, it is doubtful that a computer-based voting system would be an improvement over the current system since many people are not used to computers. Especially old people or people who can hardly afford the fairly new technology, only rarely use computers, which can lead to errors during the voting.
-Furthermore, who guarantees that the machines work the way they should? The lecturer brought this question up, because if human error is an argument against the traditional system, why will there not be any human error in programming the computers. In fact, a mistake in the programming could lead to a completely different result since huge amounts of votes could be lost. And even if these mistakes could be discovered, it is not possible to run a recount because there is no physical record of the votes.
-Lastly, she said that things like the banking system which are fully automized today, took time to develop. When they were first introduced, there were many flaws and it had to be improved over years to become the system that we have today. Since there are votes approximately five times per year if not even less, it is not used enough to improve the system based on experiences made on voting days.
-
-In conclusion, one can say, that the pro arguments as well as the contra arguments make sense. It is a topic which is probably decided more based on opinion, than on facts.

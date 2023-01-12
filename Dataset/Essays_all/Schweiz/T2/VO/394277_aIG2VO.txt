@@ -1,7 +1,0 @@
-﻿There is an enormous controversy between letting computer software count voting ballots and letting people count them by hand. In this essay I am going to discuss some arguments made in a lecture.
-
-It is claimed that computer are often not really better than humans since computers are programmed by humans and humans often tend to make mistakes. However, mistakes are only human and when a human counts the votes there will of course be some missed or mistaken votes. Whereas, if a computer software counts the votes, there is a greater likelihood of 1000 of wrong votes or even deleted votes. Furthermore, there are national votings only every two years so it would not be a problem to count the ballots by hand.
-
-In the text the issue of people voting for the wrong person by accident is discussed further. When someone is not able to see very well there is a probability that they will vote for the wrong person. Or simply, when a person is not very concentrated on what he is doing, a mistake is likely to happen.
-
-Taking everything into account, it is safer for us to stay with the good old counting by hand.

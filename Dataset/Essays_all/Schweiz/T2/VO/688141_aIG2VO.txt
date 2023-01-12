@@ -1,7 +1,0 @@
-﻿Voting system: trusting a computer or human counting
-
-Voting system in the U.S is often inefficient. The old counting method by human is often seen as inaccurate but is a computer really a better counter than human? 
-The computer voting is doubtful, it is a good thing for people who can afford and use a computer on a daily basis but it is the oppostire for people who are not used to computers. They can put a wrong vote on the screen, not understand how they should vote or even not show up to voting due to a fear of technology. Another point is that the old voting is critcized because of human mistakes, but computers are programmed by people. If a person does an error there are some votes out of thousands which may be wrong or missing. But if a computer does an error there could be thousands of vote missing in addition the votes do not physically exist so if the computer does a mistake there is no proof and way to recount the votes. Computer used on a daily base like banking transictions also needed a lot of years and experience to make them sufficient and functionaly as they are today. Voting is happening only once a year or in another country maybe twice. It is hard to improve a system which is hardly used. 
-
-As long as voting is not going to happen on a daily or even monthly basis it is not going to be possible to improve the computerized voting technology. It is important to keep voting as easy and efficient as possible. 
-

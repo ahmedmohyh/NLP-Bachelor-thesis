@@ -1,8 +1,0 @@
-﻿The topic is, if computers are better and more reliable in case of voting than humans. 
-
-Some people say that computers are not better, especially not for older people who are not used to it. Some of them may even be afraid to go voting because of their fear of the technology. But it could also have some advantages for the older people, for example it is less likely that someone votes for the wrong person because one can only touch the candidate's name. If the voting happens without a computer, one can easily vote for the wrong person because the names on the long list are written very small and close to each other.
-
-They also claim that the computer may not count right because a computer is programmed by humans and humans make mistakes sometimes, either by counting the votes themselves or by programming a computer to count the votes. So it is not sure if a computer would count correct and if there happened no error by programming the computer.
-The problem of a computer counting the votes is that a counting error from a computer is way worse than a counting error from a human. If a human makes a mistake counting the votes, he can just start again and recount all the votes. This takes a lot of time and is rather expensive but it works. If the computer makes a mistake this is not possible and that is a huge problem.
-
-The last argument why computers are worse than humans is that the other modern systems we use today had to be improved several times. The problem is that elections are not that often so one would not have much time to improve these systems or the systems and the computers would not be reliable the first few times they are being used. 

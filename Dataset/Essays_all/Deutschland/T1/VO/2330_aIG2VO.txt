@@ -1,8 +1,0 @@
-﻿There are problems with a compuerised counting systems.
-Voters that have difficulties using a computer could potentially vote for the wrong candidate just as voters with poor eyesight could voting on paper.
-Compters that count the votes are programmed by humans, and humans make mistakes.
-A mistake made by a Official will result in a couple of wrong votes.
-A mistake in a computer programm will likely result in thousands of wrong or lost votes.
-While some computersised systems are safe, they needed a long time and constant use to be improved to that point.
-Computerised systems for voting on the over hand would only be used once every couple years and errors could slip throu unnoticed for a long time.
-Information can also be lost far more easy than physical sheets of paper.

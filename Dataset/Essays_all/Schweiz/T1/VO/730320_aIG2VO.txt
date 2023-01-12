@@ -1,6 +1,0 @@
-﻿E-Voting
-
-Bove texts are about the idea to change from our traditional voting system to a computerized one. The first text that we read is in favour and the second is against.
-Critics of the traditionel voting system mentiion that people who aren`t good at redading may have dificulties to read the candidates names, and they may vote for the wrong candidate. Theire opponents conter that some people have dificulties with computers and may also do these fauts.
-Second the first text mentions that a computerized voting system would make it easier to cont the votes and that there would be no mistakes because there are no humans involved in the counting process. Also they mention that it takes a lot of time and effort to count by hand especially when there is a recount needed.
-the oponnents argue that the program also is written by human and that there could also be mistakes. The difference is that a man makes only some mistakes, but if a computer has an error there would be thousands of wrong counted votes and a recount is nearly impossible with the computeri

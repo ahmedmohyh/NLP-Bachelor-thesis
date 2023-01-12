@@ -1,7 +1,0 @@
-﻿Our world today has become very technological in the last decades. We use technology in our everyday life.
-The voting system though, remained still traditional: ballots are being counted by hand.
-There are a some diffrents about this voting systesm. 
-A lot of people would prefer a computerized voting. At one hand, this process would more efficient.
-If for exapmle an error happens, the computer can remove it easily and fast. On the other hand a computer could make a very big error. Because of the big information data, there is a risk, that thousands of votes could be saved wrong.
-This shows, that computerized voting are not neccessarily more trusthworthy than the the traditional one. People with poor eyesight though, could mark the wrong name on a ballot. With a computer this would not happen.
-The problem with a computerized system is, that a lot people aren't use to technology. So if someone has not the experience or the money for a computer, he can't vote.

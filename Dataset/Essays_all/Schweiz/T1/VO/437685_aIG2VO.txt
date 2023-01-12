@@ -1,7 +1,0 @@
-﻿Both sources make one of the two extremes clear, basically the text is for the computerized voting and the audio is more or less against computers in voting systems.
-
-The text says that the current US citizens voting per hand on a sheet of paper full of names is not accurate, because often especially old people mark the wrong name under the occured ones. The names are quite densely written, squashed and squeezed together that mostly voters with bad eyes happen to make these errors, because you can't see them properly and also the fact that people count the votes naturally leads to many mistakes. 
-Those two facts together lead to a highly damaged and not really trustworthy result of an election, and computer would do the job far more accurate.
-
-The audio exlains that computers can't be the solution to this problem either, because loads of again old people don't know how to use them, so they would end up being scared and not voting at all. This would damage the result of the election aswell.
-You also come to the conclusion that while humans program the computers, they could also do mistakes which would be far worse and important, because then if everything is computerized, all the votes are gone, you can't recount them. There is an argument that you could improve the system, but voting occures only once or twice a year which is to little for the system to significantly improve unlike the banking systems.

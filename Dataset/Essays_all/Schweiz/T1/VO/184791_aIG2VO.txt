@@ -1,7 +1,0 @@
-﻿In the presentation it was said, that an electronical voting system isn't better than the traditional way of counting votes. There are people who can't afford a computer or people who don't know how to use a computer.
-
-Another argument is the program. It is written by a human and there could be some human errors of which the text said they won't exist in a computer voting system. But with a fault in the program, the difference between the real result and the computer result can be even bigger. In addition to that, the votes can't be recount. So if the results are actually wrong, you can't change it anymore.
-
-The text mentions that on paper the names of the candidates are very small and it is easy that you choose the wrong person. Maybe this fault won't happen that often at the computer but if there is a fault in the program it's even worse.
-
-There are many programs that have some important things in it and where it mustn't have any faults, for example in a banking program, but they have been improved over and over again. A voting program can't be improved that many times because the votings in the United Sates are only every two years. And already by the first time of use it has to run without any fault. According to the text that would be possible but in the presentation it was said that this isn't like this.

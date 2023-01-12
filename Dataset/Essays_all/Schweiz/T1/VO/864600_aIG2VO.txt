@@ -1,5 +1,0 @@
-﻿Voting
-
-In the lecture the woman says, that not all people are used to computers. Of course there are people who use them on a regular base, but what about those who don't. For them the traditional marking of the candidat on the list is much easier. Especially a touchscreen can be very difficult to handle for some people. Plus there is a widely spread fear of technology in our society.
-And another question is, if the computer voting system would be more efficient than the traditional way. Computers are programmed by humans, so they too aren't perfect. Obviously counting the votes one by one creates mistakes, but if there's a major failure in the system, the impact would be much greater because all the data could be lost. In case of a total breakdown, there is no physical evidence; a recount could be impossible. But on the other hand, complex computer technologies are perfectly trusted in banking transactions an similar things. So it wouldn't be something totally new.
-Also the voting tools are used every two years nationally, and only twice annually, so it's not in use all the time.

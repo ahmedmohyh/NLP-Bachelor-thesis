@@ -1,5 +1,0 @@
-﻿Should computers be an alternative to the traditional voting system ?
-
-Traditionally, you get every two years your ballot and mark your candidade on the sheet. 
-The problem behind this is that people with poor eyesight can´t identify who they are marking or if they are even marking the right place. Computers would solve this problem by an easy to use touchscreen which could magnify the names of the candidates. In contrast, old people, people who can´t afford a pc or who are scared by the newest technology wouldn´t even know how to use the computer. Software could eliminate the fact that a human miscounts some votes but if the software is damaged, not only a few miscounted votes would miss, thousands of votes would vanish.
-Theres is an argument that says that we are using and trusting computers everyday for example in banking transactions and why should we not use computers at voting then ? These programs are getting tested everday and before they got introduced they had a larger area and timeline when problems could be found. Elections and votings are only happening every 2 years, theres not much room for testing such an important software.  

@@ -1,7 +1,0 @@
-﻿Voting
-
-Critics aren't sure if the traditional voting system in the US States is good and exact enough. They say that compuzerized voting sytems would be more exact.
-But people aren't sure if in the end computerized voting would be better. For people which aren't used to computers and  it would be hard to learn how to vote with this new system. Because they wouldn't be used to it, they would get help and vote together in bigger groups. This could influence their personal opinion on what they actually wanted to vote.
-Another reason why it's not clear if computerized voting is better, is that we can't rely on computers a 100%. Mostly they do their job and they work without any doubt but if there would be a system error or a mistake in the program, we would have way bigger mistakes in the number of the votes. 
-This could be a very difficult problem to solve because then we wouldn't have any physical record of the votes.
-We should also know, that compared to computerized voting, wich wouldn't be used more than twice a year, systems like online banking for example, are used on a daily basis by thousands of people. It was a extremely long progress to get those programs safe and without mistakes. they improved and improved until users could rely on them. Te risk i just too big to swich from traditional voting to computerized voting, without having it tested and being sure that iit really works.

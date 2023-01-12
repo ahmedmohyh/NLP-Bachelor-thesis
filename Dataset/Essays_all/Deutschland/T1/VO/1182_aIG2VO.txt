@@ -1,5 +1,0 @@
-﻿The tratitional voting has some serious problems. Often people with poor eyesight vote for the wrong person because there are so many names on the list and maybe they do not find their canidate. 
-Furthermore the votes are count by humans one by one. Humans do mistakes, so it is possible that the people counts the votes wrong.
-To make sure this does not happen some people want a voting system where you vote on your own computer. But also computers are programmed by humans so mabye the humans made an mistake while programming.
-Moreover some people do not want to use computers or do not even know how to use them. Nobody has to know how a computers and aspecially old people do not want to learn this anymore. Nevertheless their votes are as importan as all the other ones. 
-An other problem is that there is just one voting in a few years, so there is no good possibility to test such a computersystem in a way like it would be used while a real voting.  This means some risks, because it is not sure if such a system would be able to count all these votes perfectly.

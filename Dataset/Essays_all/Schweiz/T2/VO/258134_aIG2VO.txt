@@ -1,7 +1,0 @@
-﻿The text, as well as the lecture talk about the current state of voting affairs in the United States. While the text excerpt mentions that old-fashioned hand counted voting is outdated and highly unreliable, with new options, based on computers, being safer and the way things should be done in the future, the lecture opposes this idea and criticizes this concept due to shutting out technology illiterate people and being potentially harmful due to "human error" caused by programming.
-
-Two of the main arguments which stand against each other are, whether human error in counting is more likely to occur than error in electronic counting, and, how reliable the machines truly are. 
-
-For the first point the lecture makes a very bold remark saying that computers might also miscount or cause problems due to their nature; being programmed by humans. The text does not address this possibility but just in general talk about a computer's inability to make human mistakes.
-
-The second argument is brought up by the text in saying that we use technology everyday in banking and transportation, without failure, therefore it should be assumed that it would work equally well in voting. The lecture once again opposes this point and claims that this level of reliability is only achievable due to daily use, and, since voting only takes place every two years, is not achievable for election machines.

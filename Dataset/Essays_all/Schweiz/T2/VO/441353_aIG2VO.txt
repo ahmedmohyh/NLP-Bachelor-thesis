@@ -1,9 +1,0 @@
-﻿Computerized voting
-
-Due to critics saying that counting the votes manually causes inaccuracy, it is said that there is the posibility to computerize the process. But what exactly are the advantages and disadvantages of this technique?
-
-The textsource states that, since the ballots are very big and with a lot of texrt written on it, people would accidentally chose the wrong candidate. The computer program would favour those in a way that you would be able to just click on your choice's name and magnify the whole page. The audio opposes to this statement by claiming that not everyone is used to to modern techniques and their fear could prevent them from voting.
-
-Another argument given in the textsource is that it is nomral that you cannot count every single ballot correctly. That is where the machines would be perfect since they are programmed not to make mistakes. In contrary to this, the audio sequence clamis that also these computers are made by humans and if there was a mistake programming the coputers, the consquences would be much more severe.
-
-Overall there are multiple arguments in favour of the project and also against it. It is safe to say that in the near future we will not see a change in the old system. However discusssions will go on and at some point we could find a solution that matches the public point of view.

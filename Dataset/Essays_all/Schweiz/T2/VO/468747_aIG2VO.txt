@@ -1,5 +1,0 @@
-﻿The problem of coputerized votingsystems is, that they aren't that reliable. 
-For instance there are people, who aren't used to computers (maybe they don't have one at home or they never use one), they have major problems to vote.
-And if they know how to use a digital machine, they can also vote wrong easly.
-The argument, that digitelized voting will make far less errors isn't proved. We can't forget, that human program this computers. if a human make a manuel mistake wit a ballot,it wil olny be a few mistakes in some ballots, but if a computer is wrong programmed it could be a thousend wrong votes. this could change a whole vote.
-And shure. Banking transaction and cumminication of delicate information is also digitalized, but this programms are used more often. they can improve with every mistake they made. But a major election or vote is only every two years in the USA. So if there've mistakes only one time. it can change the whole country against the will of the People of the USA.

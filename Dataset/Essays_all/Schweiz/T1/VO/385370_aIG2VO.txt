@@ -1,7 +1,0 @@
-﻿Voting
-
-Computerized voting is currently a big issue. It has many advantages: Its more reliable as computers produce less errors than humans, its easier to vote on a computer; especially if the voter has issues with the sight. Its less work for officials who have to count thousands of ballots one for one. Also if a mistake occurs within manual vote counting a long and expensive recount has to take place. Nowadays its simply impossible to just ignore the option of electronic voting, as we use them nearly everywhere. 
-
-On the other hand computers are programmed by humans they may produce errors aswell. Of course manual counting is less errorful. However errors made by a computer are more severe. Thus one may affect thousands of votes. Also within a country of 250 million people - believe it or not - there are still people who either cant afford or properly use a computer. And after all the voting process which we have was improved many times and is by now as reliable as manual voting can be. Whereas computer voting cant really be improved, due to the low frequency of votings. 
-
-In the future we have to either stick to the complicate traditional but also reliable methed. Or we take the risk and start with the method that will most likely be a thing in the future anyway.

@@ -1,6 +1,0 @@
-﻿The lecturer does not agree with the author of the text. She thinks that the voting would not be better, safer and more flaweless, when voting computerbased. 
-She mentiones that one has to think about people that do not have the money to buy a computer or cannot handle one. So the voting participation would decrease. While the author of the text thinks that with e-voting it would be possible to avoid human failures such as counting mistakes or ticking the wrong candidate because of a poor eyesight, the lecturer sees a danger in trusting computers too much. 
-This is based on her thought about people programming the voting-software and doing mistakes during this process. The text shows us, that we trust computers while using e-banking and suggests to trust them too while using an e-voting software. The lecturer has a good point there: 
-It is normal to use e-banking and as we started to work with it, it was not flawless. But by using e-banking every day, the programmers were able to fix the problems and so nowadays it works safe. The problem with e-voting is, that we only use it every second year and so we cannot find mistakes that fast and easy. Followed by that, this software cannot be as safe as e-banking is. 
-In addition there is no physical record of the vote and so no mistake can be proved.
- 

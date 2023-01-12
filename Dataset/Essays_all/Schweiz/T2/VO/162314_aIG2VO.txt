@@ -1,7 +1,0 @@
-﻿Even though the voting system is quite old, it is still quite reliable, or isn´t it? 
-
-There often happen mistakes with the old system, a minor one it that it could be posible that a person with bad eyesight might accidentally swithches the line for the tick of their candidat. But the mayor problem is the counting. It is made by humans wich easily make mistakes and in the end they need to recount all of them again, if a recount has taken place. 
-
-On the other hand, computers can also make mistakes, because the are programmed by humans. And there one mistake can make a huge difference of several thousands of votes! And so a recount is not possible, since the votes do not exist in reality. And some people have problems since they just do not know anything about computers and so they have difficulties to vote. 
-
-In my opinion the voting system should be updated, but after serious testing of the system to make sure no mistakes can happen. And if someone has problems using the voting machine, the is always someone there to help. 

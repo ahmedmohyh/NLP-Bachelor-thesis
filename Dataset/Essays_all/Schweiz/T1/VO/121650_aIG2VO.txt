@@ -1,7 +1,0 @@
-﻿Both argumentations talk about the counting problems of voting. The text explains the benefits of computerized voting system and the downsides of humans counting the votes, while the presentation explains the benefits of humans counting the votes and the downsides of computerized voting systems. 
-
-One point discussed was the effect on disabled, old and poor people. The text claims that people with poor eyesight can easier find what they are searching for on  computers than on the ballot that is a large list with names. The counter argument is that people who aren't able to afford it or using it are discouraged from voting by the technology.
-
-Another statement is that the counting of thousands of votes is a big piece of work, so errors easily occure. If an error is found, the recounting of the votes is very expensive and long. The presentation argues that errors in a programm that are created by humans are far more damaging.
-
-The last point states that even the highly secure system used by banks had a lot of errors when they were introduced and that this couldn't happen in voting systems.

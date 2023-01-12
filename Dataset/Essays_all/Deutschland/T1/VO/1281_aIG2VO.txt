@@ -1,8 +1,0 @@
-﻿"Voting"
-
-In the USA you can currently vote once every two years. But is it better to use computerized voting systems or the current voting symstems where people have to count thousands of ballots?
-Critics think that the current voting systems are inefficient and often lead  to the inaccurate counting of votes. 
-They think that its`s better to replace the traditional systems with far more efficient computerized voting systems.
-In traditional voting you have to find your candidate on a sheet of paper with many small written names. You can easily mark the wrong name if your eyesight is not good. Another problem with old voting systems is that you need to find people who will count thousands of ballots.They have to count up the vote one by one and record the vote. It`s inevitable that they will make misstakes after a long time where they had count votes.
-The computerized voting system have an easy-to-use touch scrren technology to cast a vote. 
-The computer systems remove the possibility of human error.

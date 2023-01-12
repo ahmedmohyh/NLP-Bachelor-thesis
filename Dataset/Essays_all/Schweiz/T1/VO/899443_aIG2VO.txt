@@ -1,8 +1,0 @@
-﻿The peoples who would like to replace the old voting system by a new one on the computer are aguing with several points:
-- There were very often Problems with older People or people with poor eyesight, because its hard to search a sertain name on a long small written sheet of paper. And on the computer it would be mutch easier.
-- There is also a problem with counting the votes because this is made by hand. So an error could easily be done.
-
-But the critics of the new system will say:
-- There were alwayspeoples who can't handle computers and they will be very overloaded with the new sytem.
-- And a programm must first be tested many times before it will work without any fails. Elections aren't very often in the states so it's very dangerous to start a programm witch could contain many errors. It could only be tested twice a year and an error could take year to be fixed.
-- If a person makes a fail its not very bad but if the programm don't works right it's much heavier.

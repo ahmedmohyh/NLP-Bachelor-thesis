@@ -1,7 +1,0 @@
-﻿The text deals with the problems of the current voting system in the United States.
-It said, thet the now used voting system "often lead[s] to the inaccurate counting of votes".
-A solution for this problem might be to use computers. To count the votes and also for voting. This would be a big help for old people with a bad eyesight and would simplyfy the whole system. It would not be necessary anymore to count thousands of votes by hand. It will save time and people.
-The lecture critises this solution.
-It is not sure, that using computers would be better, they will just create new kinds of problems. This would only be a help for people who are used to computers. People who can not afford a computer or barely used one in their live would have to face new problems, which also can lead to wrong votes.
-The problem of human erorr is not solved by using computers, since they and the progams to count the votes are proammed by humans. If there happens a human error, it will cause way bigger problems, than if somebody missed to count some single votes. Thousand votes might get losed through this and since there are normaly no records of votes a recount would be impossible. The damage would be unbelivable.
-To this comes, that every computer system nedds improving. It would be very hard to improve a system which is only used every two years. 

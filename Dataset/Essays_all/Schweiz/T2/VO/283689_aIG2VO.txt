@@ -1,5 +1,0 @@
-﻿In the heared lecture the opinion is made clear that a new voting system might not be the best solution as it brings negative aspects as well. For instance, a computerized voting machine might not be easy to uses for people who aren't used to digialized machines like computers, they would struggle to follow the system and to understand how to work with it in order to vote properly. Also, people who can't afford having a computer have an disadvantage when it comes to computered voting. 
-
-Another argument against computerized voting machine is the fact that machines could as well as humans make couting mistakes. After all, computes are programmed by humans. The risk might even be bigger: those machines could create more serious problems if there is an error in the system. 
-
-To sum up, security in a computerized voting system is not easy to provide as it is only used a couple of times in a few years. It's not the same as other computer technologies that are used daily and have been developed and improved to bring them to a high standart. 

@@ -1,5 +1,0 @@
-﻿The woman holding the lecture explained some of her concerns about changing the old voting system and replace it with a computerized voting system. 
-She said, that the old voting system indeed has the chance of inevitably make some mistakes. Because all ballots have to be counted one by one it seems obvious that there are going to be made mistakes. But if an error occures because of an human error, a long and expensive recount has to take place.
-The computerized system allows a faster counting because of the computers. But a computerized system is also create by humans. Therefore is still chance to encount human error. And the human error in a computer system can lead to a big problems. The votes can be deleted os misinterpreted. And if there's a need of recounting, it is quite impossible to do so.
-
-The problems wich are faced in traditional voting systems end up to be the same as the new one. As people with poor eyesight can mark the wrong president. Or keep people who are not familiar with technology away from voting. Which is the worst thing that can happen to a voting system.

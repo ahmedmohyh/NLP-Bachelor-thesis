@@ -1,7 +1,0 @@
-﻿Despite the disadvantages reagarding current voting systems and the advantages of fully digitalised voting systems, the lecturer summarises the problems that digital votings may bring with them.
-
-Eventhough current voting systems are prone to miscounts, digital ones aren't perfect as well. It might be even worse. If a human miscounts a vote, it produces one inaccurate vote; but if the computer program, which is used to count the votes, has an error, this would be even worse for there are far more votes which vould be inaccurate. Computers don't remove the possibility of human error, in fact they can even multiply it for the computer programs are programmed by humans which are fallible to making mistakes. The lecurer mentions that errors in digital voting systems are far more severe for those programs often dont store physical records and thus can't be recounted.
-
-Also computerised voting systems could be a problem for people who aren't used to computers. This could also lead to inaccurate votes. Also (only my opinion) one could simply optimise the layout of the ballot and produce special ballots for visually impaired people.
-
-Furthermore the lecturer doesn't accept the comparison of digitalised voting systems with other important computerised things such as banking because digital banking programs are used daily and are well maintained and therefore safe. But voting doesn't happen more than once in a year, which could be a factor of errors for those programs can't be well tested.

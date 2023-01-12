@@ -1,9 +1,0 @@
-﻿There is a problem with the current voting system used in the United States. Every ballot is going to be checkt and the voted were counted by humans without the help of an computer. There are many opportunites to make mistakes and to miscount the votes.
-People with poor eyesight have also trouble to find the name of their candidate on the long list and sometimes aren`t able to find the correct spot to vote for him. Bacause of that some people vote for the wrong candidate.
-Because of those problems with the voting system, there was the idea to develop a computer system to count the votes and to minimize falures.
-But there are also many problems with programms like that. It´s impossible to write a programm which is able to count the votes without making falures in the programm code. Those falures can have a lager impact on the result, then the miscounting of a few votes by a human.
-There are also many prople, who aren`t used to computers and they are not able or feard to use cumputers. 
-Another major problem with an voting system based on computers is, that it takes a long time to develop a well running programm. It must be tested and those test will take a long time. Many programms used by big companies were used dayly and many faults were discovered after developing and it take a company years to develop a good system. The alactions in the United States are all four years, so it will take much longer to find the mistakes and to solve all problems.
-Another isue with computer elaction systems is, that a recount is not possible and there is no opportunity to recount the votes with humans. 
-The text and the speech say that it`s easier to count to votes with computers, but they make falure. 
-If a simulare programm is gonig to be used in the future, it is going to be tested earlier so it counts right. 

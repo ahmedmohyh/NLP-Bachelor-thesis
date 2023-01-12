@@ -1,6 +1,0 @@
-﻿Voting systems
-In the united states, the debate is coming up if the traditional voting system should be replaced by a far more sophisticated, modern system. The current system, the ballot (a large piece of paper on which the voters have to .search their prefered candidate and make a small mark), is and had always been to inaccurate. 
-Many people, especially the ones with poor eyesight, don`t mark their prefered candidate by accident. The voting system should be revolutionised. By now we should be able to vote on a computer. No more manual counting is necessary. 
-Critics say that replacing the voting system would be a fatal decision due to the fact that people who either don`t have computer or don`t use it on a daily basis are suspicius about posting their personal preferences on the internet. 
-Humans make mistakes so computers, which are programmed by humans, can make mistakes too. And a error by a machine, which could mean a complete loss of many votes is much more worse than a single counting mistake by a human being.
-But online banking on the other handside is a commonly used practice today. So we pay via the internet, but can`t give our votes through these fantastic tools?!?

@@ -1,6 +1,0 @@
-﻿Some people think that the votingsystem in the United States is inefficient. The main mistake sems to be made by those who count the votes one by one. It is normal, that people make mistakes while dealing with thousands of ballots, but if only one error is made there has to be a recount which is very expensive an takes a lot of time. But also if the counters do everything right there is the possibility, that some people with poor eyesight mark the name of the wrong candidate. So there are a lot of things which can produce unsecurity.
-Therfore a computersystem with easy-to-use touch-screen technologie would maybe cause less problems. But there are also people who say, that using such a complicaded voting technology would be to risky because computersystems make mistakes too; they are not fully trustable. Plus ther are maybe some Voters who don't understand the technology. They would need help, maybe go to a certain place where help is promised and this would cost a lot of time. 
-There is probably not one right solution. It would be the best if someone found a system which can mix both possibilities together. But this mission is nearly impossible...
-
-
-

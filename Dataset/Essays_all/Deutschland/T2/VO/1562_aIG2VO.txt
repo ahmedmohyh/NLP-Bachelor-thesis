@@ -1,8 +1,0 @@
-﻿Are "Computerized Voting systems" in the United States are inefficient?
-
-The computerized voting system in the US is often critiziced because they are inefficient and often lead to the inaccurate counting of votes.
-In the traditional voting system there is only one major source of voting for the wrong candidate. The voters have to find the name of their candidate on a large sheet of paper which contains a lot of names. The names are written down very small, so people with a bad eyesight can mark the wrong name very easily. 
-In comparisn the computer voting machine is very easy to handle. The voter just has to choose his candidate by one touch on the screen. 
-In addition it's possible that people make mistakes, when the count out the single votes. If a human being counts so many of this voting papers it's not unhamnun that he make a mistake. In contrast, a computerized symstem remove the possibility of an human error. The counts and statistics also made automatically by the computer. 
-
-All in all the computer voting system in the US is very useful, because there is not as much work for the people as with the normal system. But there is one problem: the officials have to gain confidence by the society because computer systems today are often hacked and manupulized.

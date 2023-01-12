@@ -1,5 +1,0 @@
-﻿while some people say that the old voting system is inefficient others say that a new computer managed system would be unreliable and maybe even more inefficient.
-one argument against the old system is that people with poor eyesight could be ticking the wrong name.
-supporters of the old system say that these problems could happen just as easily with computers, especially when it comes to people who aren`t familiar with them. Those people might even be interely discouraged in voting.
-An other problem with the traditional way of counting votes is that it`s done by people who have to go through thousands of ballots and record them. Its almost inevitable that mistakes will happen. In this case we`re talking about maybe 3 votes in a thousand that are false, where as mistakes made by computers are a lot heavier. If all the votes are made online it will be impossible to make a physical recount if a mistake is suspected.
-It`s true that we rely on computers everyday with important stuff but it`s also true that all of these systems had initial problems. So is it save to trust computers made by humans without ever really testing it on a thing that is so important?  

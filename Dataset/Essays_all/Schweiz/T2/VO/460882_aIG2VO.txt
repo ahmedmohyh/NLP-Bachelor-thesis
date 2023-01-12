@@ -1,7 +1,0 @@
-﻿Voting with the good old paper is of course not that modern in this world with computers, televisions and cell phones. Some people want to vote in an other way - in a way that is much more modern - with computeried voting systems.
-
-In the text one can read about how good and how easy elections with computerized systems would be and that many people make faults with the traditional system because of missing some ballots or because of other reasons. But in fact, the computerized voting systems can be very dangerous for an election as it was said in the lecture. If there is one fault in the system, thousands of votes could be wrong, although the people who voted chose the one possibility they wanted to choose.
-
-And of course the votes are counted much faster with the computer - as it's written in the text - but the risk of a general fault in the election is much bigger with a computerized voting system (lecture).
-
-In general: The text wants to tell how good and efficient a computerized voting system would be, the lecture critizises some aspects of it and shows how dangerous it can be for an election.

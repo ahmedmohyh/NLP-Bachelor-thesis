@@ -1,5 +1,0 @@
-﻿There are many critics about the actual voting system. People need to search on a long list of names for the candidate they want to elect. It could happen that the people mark the wrong name without realizing or that the officials can not really see whhich name the person meant.
-Also it is hard for the ones who count the votes not to do any mistakes because there are so many of them. 
-But on the other hand a computerized system has also its defaults. For example are not all people used to computers because they can not afford it or are scared of the new technology.
-Of course would the counting by computers be much faster and more reliable. But this is only the case if the system is written without an error, otherwise the mistake wold be much bigger then a human who forgets to count some votes.
-Today, peoplle trust the banking transactions done by a computer. But the developement o this system lasted long until it got reliable and for the election it would be a high risk if the system does not work emediately. Also it is very expensive to create this system, which will only be used all four years.

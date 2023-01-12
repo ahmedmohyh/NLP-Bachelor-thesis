@@ -1,7 +1,0 @@
-﻿In the lecture it is said that while the traditional voting system my not be very efficient a computerized system wouldn't be better either. Many people today don't know how computers work of even can't afford them. And while at the traditional system votes are counted by people, computerized systems are programmed by humans so mistakes coud be far more serious.
-In contrast, the text brings no negative things up about the computerized voting system, but it mentions more or less the same points about the traditional one. It is also said that computer systems are far more efficient in terms of accurate counting of votes, and that they would remove the possibility of human error.
-But the lecture sais the opposite: a national election only happens every two years, so a computerized system couldn't be improved fast enough, while banking transactions and similar things are daily and heavily used and for that they get in fact improved over the time.
-
-
-
-

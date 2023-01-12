@@ -1,7 +1,0 @@
-﻿The lecture is critical of computerized voting:
-
-The argument that people often tick the wrong box on traditional lists is countered by bringing up people inexperienced with computers who could have a great amount of trouble. This may lead to more misvotes and may lead to some people abstaining from voting altogether.
-
-The text's argument about the elimination of human error is countered by the argument that computers are also only programmed by humans. This could lead to errors aswell. In addition to that, the computer would make the same counting error many times over, thus leading to a large margin of error in the vote counting process. Because of the immaterial nature of electronic votes, a recount is not possible, thus invalidating the election.
-
-The argument that banking systems have been used for a very long time and have only gotten so trustworthy because of continous evolution caused by day-to-day usage which would not be the case for computerized voting systems is also made. This counters the texts example of banking systems, being accepted and widely used, making a case for the adoption of computerized voting. 

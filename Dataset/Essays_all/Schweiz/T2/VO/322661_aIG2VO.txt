@@ -1,5 +1,0 @@
-﻿The argument,that computerized voting will eliminate any mistakes is wrong because just as humans fill out ballots, a computerized voting program is also written by humans wich can lead to mistakes on a larger scale.
-
-Furthermore it is argued, that people with poor eyesite have trouble with traditional ballots and that the solution is to use computerized voting systems with touchscreens and other high tech functions. While it may be true that it solves the problem that many people with poor vision have, it creates a whole new problem for people who can`t operate a PC. It is argued that this would lead to a fear of voting for people with "tech-phobias".
-
-Lastly a computerized programs are used in all areas of government and business. These programs are relied on everyday and are trusted to deal with sensitive information such as banking data. The problem with these systems is their backstory of long development and mistakes they had to endure to reach the current reliability. Since elections arent a common procedure like banking transactions developing such a system woul 
