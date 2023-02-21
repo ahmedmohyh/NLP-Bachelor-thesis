@@ -1,0 +1,7 @@
+﻿Voting
+
+Many critics say that traditional voting systems are inefficient, because of human mistakes. For poeple who doesn't see very well, it's hardly to make a mark by the correct name. Also people who count the votes could make mistakes. And if they make a mistake th
+
+"So why we don't use computers?" manycritics say. Computers are more efficient than humans and they don't make as much mistakes as humans do. But what is with peoples who can't use or never used a computer. Espacilly for older people it's very difficult. Furthermore computers have been made by humans, so it's possibe that they also make mistakes. And if a computer make a mistake, there will be thousand of mistakes. That's because of the software, which would be the same of all computers, which count votes.
+
+Maby some people say that computers also work for banks but there the computers are used every day and the errors had been eleminated. For example in the USA there are one or two votings in a year so mistakes are more possible and hardly to identificate. 

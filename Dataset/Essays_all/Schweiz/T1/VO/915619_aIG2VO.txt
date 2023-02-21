@@ -1,0 +1,9 @@
+﻿Voting
+
+Currently in the United States, people vote for a candidate on a sheet of paper, which contains many names. This type of voting system is inefficient and often lead to inaccurate counting of votes. Should it be replaced with a more efficient and trustworthy computerized voting system? There a few points, which are for and against this replacement.
+
+Firstly, the computerized voting machines are easy to use and it is less inevitable that the voters will make mistakes, by marking the wrong candidate.
+
+Secondly, they would not have to count every single ballot, because all the vote counting will be done quickly and automatically by computers.
+
+However there are also disadvantages, people could have problems wit

@@ -1,0 +1,10 @@
+﻿Voting proplems
+
+The main problem is the voting system for people, who have a handicap. Example people,who see bad, the couldn't see the litte letters in the text and don't find the right case and for this people need a solution, because this people has also the choose to vote for her country.
+
+The computersystem is also a good solution for the voting problems, but it has also mistakes. 
+Example computersystem in banks and other systems are proofed and the computers will use every day and every time. The voting computer are using maybe twice in a year. 
+For people, who don't use a computer or older people, is this system also a little problem. The persons don't have the experience to use a computer and for a vote is this very important to make no mistakes.  
+The computer system are a new technology and many people don't trust this systems. Example the voting informations are highly sensitive and for hacker can manipulate the vote. 
+But the computer make not many mistakes. If a human make a mistake and the error is detected, a long and expensive recoutn has to take place. In contrast, computerized system remove the possiblity of human error, since all the vote counting is done quickly and automatically by the computers. But if the computer makes a mistake, the problem is bigger than am human error, because the other computer system in the country make the same mistake. The computer have all the same programm and if there is an error, all computer have this one. It's a systematic error.
+

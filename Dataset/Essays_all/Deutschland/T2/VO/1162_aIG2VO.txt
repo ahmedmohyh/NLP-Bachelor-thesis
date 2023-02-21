@@ -1,0 +1,5 @@
+﻿The text talks about voting systems in the United States. The traditional voting systems which are still used, often lead to mistakes, espacially if the election is closely contested because of voters voting for the wrong candidate, perhaps caused by a bad eyesight. Furthermore, people have to count the votes after the election and can easily make mistakes if they have to count thousends of ballots. 
+The text now mentions, that a computerized voting would illuminate these problems. People don´t have to count the votes anymore and voters with a bad eyesight can zoom in on the ballots.
+The recording critizises, that it´s way easier to vote computerized for people who often use computers or work with a computer. Voters who can´t afford a computer or are too old to even know the whole technology will still have problems or even more than to vote on a paper.
+There can also be an error in the election programm. This can lead to a miscount of the votes by the programm or the fact, that many votes can´t be counted.
+At last, also a coputerized election could lead to many problems and mistakes and isn´t relieable.

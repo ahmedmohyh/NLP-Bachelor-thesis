@@ -1,0 +1,5 @@
+﻿There are many problems with the traditional voting system in the United States so the question came up, whether the traditional voting should be replaced by a voting managed by computers. 
+
+First of all people with poor eyesight can easily set their mark at the wrong name. These and other problems cause an inaccurate voting. Every ballot has to get counted by humans which means that not every ballot is counted correctly, since every human makes mistakes. But on the other hand a computer system can also do major mistakes. If the software causes problems from time to time, the result of the voting can be highly wrong. And old and/or poor people maybe do not have used a computer so far. This means that they can vote the wrong candidate, which is the same as in the traditional voting system with poor eyesighted people.
+
+This means that in the end the traditional voting is slightly better but both ones have their negative aspects.

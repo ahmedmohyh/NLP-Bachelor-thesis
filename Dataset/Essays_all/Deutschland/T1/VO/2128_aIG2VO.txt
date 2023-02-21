@@ -1,0 +1,8 @@
+﻿The presenter has doubt on the computerized voting systems. She has got the opinion that it will be easy for people who are use to use computers and often work with them, but the ones who for example never used a computer before it will be difficult. And that leads to the same problems as the traditional voting: People vote for the wrong person.
+Speaking to the mistakes humans make, the computer programs are made by human so there could be mistakes in there, too.
+Also it is possible to remove the votes, that suddenly 1000 votes are missing and you have got no proves that these votes actually existed.
+
+"People accidentelly vote for the wrong candidate" that is what the text says, but in the presentation it says that when people do not no how a computer work it can happen easily that they click wrong and vote for the wrong person. 
+The text says that with the computerized systems human mistakes can be avoid, but the presenter is the opinion that also the computer system, which is made by humans, can have mistakes, too.
+Another contradiction in the text and in the presentation is the counting of the votes. In the traditional voting the votes have to count up one by one, and if someone finds a mistake, everything has to be count again and that is a very long progres and it is also very expensive.
+If the state would use the computerized systems it can easily happen that someone remove a thousand votes and nobody can prove that there where actually these thousand votes. 

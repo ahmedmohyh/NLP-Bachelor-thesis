@@ -1,0 +1,7 @@
+﻿Basically, the text says that a computerized voting system should be implemented in the United States while the speaker of the presentation is against it. 
+
+The text says that there is a large space for errors if the votes do not take place with computers. Furthermore, critics say it is inefficient and the counting is inaccurate. People with poor eyesight can easily make mistakes because they might hit the wrong candidate. The text says with computers this will become better, because there voters just have to hit the candidate they want to vote for.
+
+The speaker is teling the exact opposite. He says that it is doubtful wheter or not it is efficient. There are a lot of people who aren't keen to computers and they might easily make mistakes. It is also possible that there are some program mistakes because humans are able to make the whole program wrong. Even if it is a little error, the outcome might be horrible. Especcially when humans invented the first computers, not everything went flawlessly and the speaker fears that this might happen again.
+
+So, as we can see, there are two totally different views wheter or not to implement the computerized voting system. The text want to implement it while the speaker is absolutely against it.   

@@ -1,0 +1,9 @@
+﻿"Voting"; summery of the lecturer's talk and comparison with the text
+
+The lecturer's talk is critising the  proposed technology for future voting system. The lecturer is questening wether the new system is really better or not. Maybe it is good for one part of the society, which is used to the modern technology, but not for the one which is not. Many people aren't used to computer usage, some haven't got one computer at all. For them it would not be easy; there might be wrong votes, but worse even people might avoid voting because of the new system.
+
+The lecturer also critises that the new system is meant to avoid accidently maden mistakes by a few people. She says that the new system is programmed by humen and "erare humanum est". In this case it would have drastic consequences. Not only a few mistakes will happen, if there is one error in the programm there would be a collection of wrong votes. In comparison with only a few wrong accidently made errors, there would be a clearly useless result,.
+
+The lecturer says also that the daily used computer technology, e.g banking, is a system which developed over a long period and there were many corrections made in this time. It is also used regurlarly and therefore it is improved day by day. This development of getting to a better voting technology would not be possible because there are about 2 votings a year, which would not be sufficient to improve the system.
+
+The text says that critics of todays voting system says, that the current system is inaccurant and inefficient whereas the lecturer criticises the new computer voting technology.

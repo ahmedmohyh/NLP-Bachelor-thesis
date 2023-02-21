@@ -1,0 +1,7 @@
+﻿The presentation was mainly about a possible computerassistent for the election in the United States.
+A computer programm should help people while voting and the process of voting should be more easy. For people, who know computers and their using this is a very good idea and very easy, the presentation said. But for people who can`t work with an computer it is even harder. Also some people don`t trust computers and their systems and then you have the problem that they don`t want to go to the elections.
+Also for the counting of votes a computersystem could be a good solution, so the presentation. People could make mistakes while counting and a computer can`t. But also computers were programmed by people and when the program has got mistakes even more wrong counted votes could be the end.
+The last point is, that it is very hard to test computersystems, because elections are only every second year.
+The text disagree with the opinion of the presentation: it says that the most mistakes while voting happen because people with poor eyesight could cross the wrong candidate. With an computersystem it isn`t possible.
+And concerning the counting of the votes the text says that a computersystem has got smaller problems with the counting then people who have to count more than thousand votes.
+To he point, that it is too risky to use computers the text says that in allday live computers and their systems are used every time. And when people trust computers in allday governmental things, they can also trust them concerning elections.

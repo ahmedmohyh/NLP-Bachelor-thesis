@@ -1,0 +1,5 @@
+﻿A lot of people from the USA think that the traditional voting system is not reliable. Many mistakes can happen while filling in the "the ballot". To improve this situation, there should be a computerised voting machine in which errors can be forgotten. 
+
+Critics say that for people who are not used to deal with new technologies as computers it is almost impossible to vote. It would need a huge effort to teach elderly people to vote like this for example. Also, it is written in the article that the vote counting will be done quickly and automatically. But we have to keep in mind that the voting system is created by humans. They could have done a mistake while programming it. This little error could ruin a whole election. In contrast, if people vote by hand, there are maybe a few missing or bad placed votes but it would be a much smaller amount of voting errors. 
+
+Finally, you do not know if these systems can be fully trusted. Of corse, you can trust e-banking for example but these technologies have been created many years ago and have been improved over and over again sinse then. In addition, this systems are daily used.  

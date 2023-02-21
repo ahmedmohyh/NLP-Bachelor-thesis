@@ -1,0 +1,12 @@
+﻿Computerized voting Systems versus human counting systems
+
+The voting question is a very difficult one: 
+What is more effective, a computerized voting system where no humans are directly needed or the traditional voting system, where people count the votes one by one? There are people who think that a new way of voting, the voting with computers would be much more accurate, but is this really the case? Followed by the recently heard presentation, there are many points which shows that the computerized voting system could be very doubtful:
+
+- The computers would still be programmed by humans, so there could still occur human errors, which then could be much more dramatic and expensive to repair than it would be by traditional voting 
+- Many (espiacally older) people aren't used to computers: For them it's much more difficult to understand how the voting works
+- Although you also have big trust in banksystems and their accurance, there's a big difference compared to computerized votingprogramms: Bankprogramms are heavily and daily used, they exist since a long time and were always getting better because of the long experience, you know how they are working and you use them with confidence and trust. All this things would be much more difficult to get sure of when you use the system only every twoo year national, and not more than once a year local
+
+So compared to the text, the presentation was much more critical to computerized voting systems:
+In the text it was said that it would be much more helpful if people who have a poor eyesight could just directly click on the candidates name instead of making a tick beside of the name (which leds to one of the major source of inaccuracy!)
+

@@ -1,0 +1,13 @@
+﻿Critics say that the current voting systems used in the USA are not trustworthy and that they should be replaced by computerized voting systems, which they claim to be mre trustworthy and efficient.
+Computerized voting systems are not trustworthy for everybody. Maybe they are trustworthy and simple to understand for people who have computers at home and use them a lot but they're not trustworthy for people who can't afford computers and aren't used to them.
+
+In the traditional voting systems, the votes are counted by humans and we know that humans do make mistakes. 
+The text above claims that we don't have these problems at all when we use computers. 
+But we have to remember that computers are also constructed and programmed by humans, so there's a chance that they made mistakes too while making these voting systems. Only are mistakes in a computerpogramm far more damaging than some little mistakes a human makes while counting the votes by hand. Such mistakes could misscount thousands of votes.
+
+In the text it is said that the fear of these voting technology is unnecessary since there are other important computer systems that are used without doubting it.
+It is true that there are computer systems used for important things such as banking. But these programms are used on a daily basis. Probably these systems weren't falwless from the beginning on. They have been corrected and improved over the years to become what they are today.
+But the voting systems are only used very seldomly and it's extremely important for them to work flawlessly. Otherwise it'll affect a whole nation.
+
+
+ 

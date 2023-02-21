@@ -1,0 +1,7 @@
+﻿It's widely maintained that voting systems are often inaccurate. Therefore the text says, that if a human has to count thousands of votes, it's almost impossible to make no errors. That's why computerized voting is much better. But in the presentation it is mention that if a human makes a mistake, he counts maybe two or three votes wrong. But if a computer has a problem, thousands of votes can be counted wrong. 
+
+The test says, that voting on a computer is extremely easy, whereas in traditional voting the names of all candidates are printed on a large sheet of paper. Errors could be made by someone with poor eyesight.
+
+Even if you have well eyes, if you don't know how to use a computer or can't afford one, you aren't able to vote, that's what the text says.
+
+Computers are still programed by humans and make errors.

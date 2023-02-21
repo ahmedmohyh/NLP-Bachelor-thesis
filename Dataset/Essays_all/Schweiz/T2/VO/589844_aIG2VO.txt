@@ -1,0 +1,7 @@
+﻿There is an ongoing debate about the current voting system in the United States. It is discussed if they should change the voting system to a pure compputer voting keep it the traditional way.
+
+On one side the traditional method has its flaws as humas make mistakes. The ballets have to be counted one by one and thus it is easy for a human to miscount them ending in wrong results. Furthermore The documents the citizens get are hard to read for some and it is easy to unintentionaly vote for the wrong person.
+
+On the other side that doesn't meean that digitalised voting is better. It has its flaws aswell. As the teacher stated, as the machines and programms are made by humans, they aren't protected from human errors, additionaly they count each vote without leaving any proof, thus as soon as one programm malfunctions there is no possiblity to recount.
+
+In conclusion one can say that a direct change to a new system bares many risks, but as there are many shades of gray there are many ways to compromise between the methods. For example for the next few years the United States could try to use both methods further improving the program while keeping it in check and as soon as the error level is below a certain degree completely swap to the digitalised version. Even though it may cost more it will improve the future. As the population grows switching to a digitalised vote will become neccesairy as counting each vote will become harder each year.

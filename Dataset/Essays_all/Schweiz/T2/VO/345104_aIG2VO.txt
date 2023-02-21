@@ -1,0 +1,6 @@
+﻿It's a fact that current voting systems are inefficient, but how to improve the deficites?
+Even tough people say that the traditional voting system is inaccurate, results are far more accurate when being checked ballot by ballot.
+
+While the text above says that computoral voting could be a great improvement, the lecturer talks about the problems that can acure when voting with a computer program or tablets. The many names and the difficulties for people with poor eyesight crossing the wanted name critisized in the text above in comparison with the severe voting errors a computer can make when programmed wrong or having other tecnical deficites seem small.
+
+The lecture talks about how an Official can make a mistake counting the names on the ballots, but if the computer system crashes or any other error acures, the problems following are much more severe. Computers are made by human beings and as well as an Official a computer can be flawed too. Also, computers must be improved all the time and it's never guaranteed that everything works as it should.

@@ -1,0 +1,5 @@
+﻿We are used to vote by filling in a ballot. This is now being critizised bacause of its inaccurate counting of votes. 
+
+The major cause is said to be the human error. There is a risk that officals count wrong or that people with poor eyesight just mark the wrong name. Considering that a computer based system could be implemented also rises voices of cirtics. One problem might be the fear of new technologies thus eldery peolple might not vote anymore or somebody who can not afford any electronical devices is not used to it and will not understand how to vote by using it. This is said to be one negative aspect. On the other hand the human error is again the highest risk, because computers and softwares are programmed by humans. If there would be an error in the whole voting system there might get lost over a thousand votes instead of just a few ballots which had been forgetten by officals.
+
+A fact is that the traditional voting system is not accurate enough, but that the computer based system neither is sufficently developped to be implemented. In the coming years voting systems have to be improved thus they are trustable.

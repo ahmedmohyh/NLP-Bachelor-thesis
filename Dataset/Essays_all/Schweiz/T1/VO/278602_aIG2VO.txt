@@ -1,0 +1,5 @@
+﻿Voting
+
+Computerising votes lead to more correctness. There happen fewer fauts in counting  and saving the results. The computerised version is also quiker and easier. Not for all but for the ones who know how to use computers.
+
+But with technology also come some problems. If there is an error or faute in the system it is possible that the votes of a whole nation are counted incorrectly. For example there could be recounts or misscounts. The cause is that the computers are made and programmed by human being. It also doesn`t make any sence to make the voting system more efficient by computers but the people aren`t taught how to manage it. 

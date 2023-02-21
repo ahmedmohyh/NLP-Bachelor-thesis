@@ -1,0 +1,11 @@
+﻿The text talks about some problems in the voting system of the US.
+A major mistake, which leads to inaccuracy in the system, is the amount of people to vote for. There a many names on the list that people with bad eyesight may see the person who they want to vote for, but they miss the square which is next to the name, and vote for a completely different person. 
+
+Another problem is caused by humans, counting the votes. The people have to count thousands of names and at some point they start counting wrong, due to fatigue, lack of concentration, etc.
+
+The solution to those problems would be the computerized version of voting. People can enlargen the names and click on them to vote, which helps the people with bad eyesight. Another good point would be, that the computer doesn't make any mistakes while counting the votes.
+
+But there are also some negative aspects. 
+Some people don't have the money to buy a computer. This can result into people not wanting to vote anymore.
+Another point would be, that the older generations don't really know how to use a computer or don't even want to use one.
+The last point mentioned is that the computers may not count wrong, but humans who programmed the computer may have made a mistake in the programme, which leads to fatal errors and can cause an even bigger problem than just humans countig wrong.

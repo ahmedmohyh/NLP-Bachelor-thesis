@@ -1,0 +1,5 @@
+﻿The voting system surrently used in the UNited States got into critics as some say that it is iefficient and inaccurate. Critics say that fact that every vote has to be counted an registred by a human can easily lead to a wrong result.
+On top of that, people with poor eyeseight would find it very hard to mark the right name as you have to find the candidate on a long list containing many names.
+To provide these errors, ciritics want to introduce modern technology as a new way to vote. This way human errors couldn't effect the results anymore.
+However there are many downsides to this. People how aren't used to modern technology could find it very hard to vote for their candidate. And as these programmes are made by humans there could be major problems then just some votes that are worngly calculated. With no phisical copys of all the votes, there is no room for fauts.
+And after all, it would take very long to develop   

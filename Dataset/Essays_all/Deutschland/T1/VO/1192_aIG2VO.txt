@@ -1,0 +1,4 @@
+﻿The problem with the old voting system is that humans make mistakes. People with poor eysight can accedently mark the wrong name on the voting list and the people counting the votes can make mistakes too. This can damage esspeacially close elections.
+On the other side computer programms are written by humans too. The impact of a failure in a camputer programm can cause way heavier problems including missng of thousends of votes. The system is also not used as often as others like the banking transaction.This is why its harder for some peopl to put complete trust in it.
+The problem with poor eysight can be solved easiely with computers but it mostly effects olt people. Those are not comfort with computers so they`re maybe affraid of this modern technologie and refuse to vote.
+The installation of a voting system via computer int he whole USA is very expensive but no more humans have to work for the elections.

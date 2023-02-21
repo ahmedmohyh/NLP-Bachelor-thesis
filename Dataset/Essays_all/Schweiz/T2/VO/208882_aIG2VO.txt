@@ -1,0 +1,5 @@
+﻿The text and the spoken argumentation oppose each other:
+
+The author of the text argues that computerized voting systems are more accurate than traditional ones. He/she says that the system he/she proposes, helps people with poor eyesight to find the right name. With the computerized system, also human error which occurs while counting could be avoided. Aware that the opposed site will argue with the trustworthyness of computers, it is also argued that we - already today - trust computers in every day life.
+
+The speaker disagrees with the text. She tries to persuade with saying that computers can cause far greater damage than humans. If we look at the situation as a whole, human errors (miscounting) lead to some votes more or less for one party. But a programm failure could lead to thousands of wrong votes. Regarding the "computerized systems are alredy in every day life"-argument, she says: These system all had to develop. They all started with mistakes and malfunctions but with time they got better and better. But there are far to few votings that those systems could improve similarly well.

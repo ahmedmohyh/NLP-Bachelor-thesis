@@ -1,0 +1,8 @@
+﻿Every to years is a vote where the people have to decide which candidate and party they would like to vote.
+There are two voting systems, the first is with paper and the second is with computers. But which one is better?
+The traditional voting with paper are inefficient and often lead to the inaccurate counting. If an election is closely contested the miscounts can be damaging.
+Another problem is that the paper haven't a good overview, so the people could mark the wrong candidate especially when they have poor eyesight.
+The old voting system rely heavily on people to count on votes. They have to deal thousands of ballots, so after time they will make mistakes and this leads to a long and expensive recount.
+But there are also negative aspects of the computerized voting machines.
+When people haven't experiences with computers they could also mark the wrong candidate, because they didn't know what to do. But it's not that hard to mark the wrong candidate like in the traditional voting because they only need to touch the name of the candidate on the screen.
+Another problem is that the program could be defected also the people can't voteand have to wait until the program is working. But the error is because of the hum
