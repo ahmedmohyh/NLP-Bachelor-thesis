@@ -261,7 +261,7 @@ def plotGraph (thresholds, countMissed):
     plt.ylabel('y - axis - Number of igonred items')
 
     # giving a title to my graph
-    plt.title('Graph between the value of threshold vs number of Igonred items - Teachers')
+    plt.title('Graph between the value of threshold vs number of Igonred items - Ads')
 
     # function to show the plot
     plt.show()
@@ -447,10 +447,17 @@ def iterateAndAssignGoldStandard (embeddings,sentences,embRefs,fileName,tfIdf= T
         df_test = df_test.append({
             "ID": mm,
             "text": sentences[mm],
-            "AssignedSimilairty": index_max,
+            "AssignedSimilairty": index_max+1,
             "Similairty": listMax[index_max]
         }, ignore_index=True)
         mm = mm + 1
 
     df_test.to_excel(fileName);
     return  allCosinSimiliarityValues
+
+
+def avg_words_in_list (sentences):
+    num_words = 0
+    for sentence in sentences:
+        num_words = num_words + len(sentence.split())
+    return (num_words/len(sentences))
